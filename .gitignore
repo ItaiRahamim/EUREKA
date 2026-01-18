@@ -12,7 +12,25 @@ build/
 .env
 .env.local
 .env.*.local
+.env_prod
+.env_production
+.env_*
 **/.env
+**/.env.*
+**/.env_prod
+**/.env_production
+
+# Secrets and keys
+*secret*
+*key*
+*.pem
+*.key
+*.p12
+*.pfx
+openssl-secret.txt
+**/openssl-secret.txt
+**/*secret*.txt
+**/*secret*.key
 
 # IDE
 .vscode/
