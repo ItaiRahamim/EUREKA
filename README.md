@@ -69,5 +69,3 @@ npm install
 npm run dev
 ```
 
-## 🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
